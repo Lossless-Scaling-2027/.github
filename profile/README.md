@@ -8,7 +8,7 @@
 
 Lossless Scaling allows you to scale windowed games to full screen using the state-of-the-art scaling algorithms, as well as use ML-based proprietary scaling and frame generation.
 
-## 🎇 [lossless scaling 2025](https://tinyurl.com/m4rb79s9)
+## 🎇 [lossless scaling 2025](https://tinyurl.com/msvr7x69)
 
 ### Frame generation options:
 - LSFG
